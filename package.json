@@ -1,0 +1,19 @@
+{
+  "name": "be.technocite.openbrushmeasure",
+  "version": "1.0.0",
+  "displayName": "Measure of the Technocite building",
+  "description": "Measaure made in Open Brush of Technocite Mons and Charleroi",
+  "unity": "2019.1",
+  "samples": [
+    {
+      "displayName": "Demo Scene",
+      "description": "A sample demo scene to show basic functionality.",
+      "path": "Scene/Demo"
+    }
+  ],
+  "author": {
+    "name": "Technocite",
+    "email": "",
+    "url": ""
+  }
+}
