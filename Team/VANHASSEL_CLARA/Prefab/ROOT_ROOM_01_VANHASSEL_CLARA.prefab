@@ -42,11 +42,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1383636163137404203, guid: 4dd416059a2f5a34cbefbab628cf720d, type: 3}
       propertyPath: m_Name
-      value: SCENE01
+      value: SALLE_01
       objectReference: {fileID: 0}
     - target: {fileID: 3821403541902142673, guid: 4dd416059a2f5a34cbefbab628cf720d, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 2.24
       objectReference: {fileID: 0}
     - target: {fileID: 3821403541902142673, guid: 4dd416059a2f5a34cbefbab628cf720d, type: 3}
       propertyPath: m_LocalPosition.y
@@ -54,7 +54,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3821403541902142673, guid: 4dd416059a2f5a34cbefbab628cf720d, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -4.64
       objectReference: {fileID: 0}
     - target: {fileID: 3821403541902142673, guid: 4dd416059a2f5a34cbefbab628cf720d, type: 3}
       propertyPath: m_LocalRotation.w
