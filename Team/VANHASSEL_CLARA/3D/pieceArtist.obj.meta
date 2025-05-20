@@ -1,14 +1,9 @@
 fileFormatVersion: 2
-guid: aa4bc296d29b3604fb0a3475665d29f4
+guid: 5eedecfd27f4fb4418d17dc9713c9a3d
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: brush_Marker
-    second: {fileID: 2100000, guid: c77f7eba8b223834cbfcf6ca4a989904, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
