@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7053921317622595953}
   m_Layer: 0
-  m_Name: ROOT_CHARLEROI_SOUPART_NATHALIE_ROOM_2
+  m_Name: P_ROOM_CHARLEROI_SOUPART_NATHALIE_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
