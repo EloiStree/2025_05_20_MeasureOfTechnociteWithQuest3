@@ -1679,7 +1679,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 172715552041968150, guid: db2080857bb20a74d85183b2b45333fd, type: 3}
       propertyPath: m_Name
-      value: ROOT_ROOM_01_VANHASSEL_CLARA
+      value: ROOT_CHARLEROI_VANHASSEL_CLARA
       objectReference: {fileID: 0}
     - target: {fileID: 265424533671874098, guid: db2080857bb20a74d85183b2b45333fd, type: 3}
       propertyPath: m_LocalPosition.x
