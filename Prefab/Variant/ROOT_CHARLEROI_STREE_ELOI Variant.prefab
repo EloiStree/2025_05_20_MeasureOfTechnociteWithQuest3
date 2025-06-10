@@ -52,26 +52,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: ROOT_CHARLEROI_STREE_ELOI Variant
       objectReference: {fileID: 0}
-    - target: {fileID: 1225932644823055976, guid: 588b6f7003c029e4e89f8c6947982bb6, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 35.03
-      objectReference: {fileID: 0}
-    - target: {fileID: 2124478556457637233, guid: 588b6f7003c029e4e89f8c6947982bb6, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
-      value: 
-      objectReference: {fileID: 2100000, guid: ef9809aa5b52c39408533c46c956389d, type: 2}
-    - target: {fileID: 6305672811267908926, guid: 588b6f7003c029e4e89f8c6947982bb6, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
-      value: 
-      objectReference: {fileID: 2100000, guid: ef9809aa5b52c39408533c46c956389d, type: 2}
-    - target: {fileID: 6320080322103082495, guid: 588b6f7003c029e4e89f8c6947982bb6, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
-      value: 
-      objectReference: {fileID: 2100000, guid: ef9809aa5b52c39408533c46c956389d, type: 2}
-    - target: {fileID: 6696551252087270167, guid: 588b6f7003c029e4e89f8c6947982bb6, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
-      value: 
-      objectReference: {fileID: 2100000, guid: ef9809aa5b52c39408533c46c956389d, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
